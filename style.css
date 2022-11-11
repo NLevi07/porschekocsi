@@ -11,3 +11,14 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
+  a {
+    text-decoration: none;
+    color: rgb(153, 8, 8);
+    transition: 0,5s;
+    font-size: large;
+}
+a:hover {
+    color: rgb(153, 8, 8);
+    font-size: xx-large;
+    transition: 1s;
+}
