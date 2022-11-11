@@ -15,10 +15,13 @@ body {
     text-decoration: none;
     color: rgb(153, 8, 8);
     transition: 0,5s;
-    font-size: large;
+    font-size: x-large;
 }
 a:hover {
     color: rgb(153, 8, 8);
     font-size: xx-large;
     transition: 1s;
+}
+body {
+  text-align: center
 }
